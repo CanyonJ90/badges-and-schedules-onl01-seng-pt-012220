@@ -24,3 +24,5 @@ def assign_rooms(attendees)
    rooms.push("Hello, #{name}! You'll be assigned to room #{counter}! ")
  counter += 1
  end
+ return rooms
+end
