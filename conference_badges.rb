@@ -8,7 +8,8 @@ end
 
 def badge_maker(name)
   name = []
-  returns.each do "Hello my name is #{name}."
+  returns.each do |name|
+    name.push ("Hello my name is #{name}.")
   
 end
 
