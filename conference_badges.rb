@@ -15,7 +15,6 @@ def batch_badge_maker(attendees)
     name.push ("Hello my name is #{name}.")
   end
   return name
-  
 end
 
 
