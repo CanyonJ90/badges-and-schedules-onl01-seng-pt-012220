@@ -18,3 +18,4 @@ def batch_badge_maker(name)
 end
 
 
+# batch_badge_creator(people)
