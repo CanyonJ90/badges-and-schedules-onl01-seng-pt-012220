@@ -17,5 +17,3 @@ def batch_badge_maker(name)
   return badges
 end
 
-
-# batch_badge_creator(people)
