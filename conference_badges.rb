@@ -25,4 +25,8 @@ def assign_rooms(attendees)
  counter += 1
  end
  return rooms
-end
+ 
+ 
+ 
+ 
+ 
