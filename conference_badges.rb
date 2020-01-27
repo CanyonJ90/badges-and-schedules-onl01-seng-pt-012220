@@ -10,11 +10,11 @@ end
 
 
 def batch_badge_maker(attendees)
-  name = []
+  badges = []
   returns.each do |name|
-    name.push ("Hello my name is #{name}.")
+    badges.push ("Hello my name is #{name}.")
   end
-  return name
+  return badges
 end
 
 
